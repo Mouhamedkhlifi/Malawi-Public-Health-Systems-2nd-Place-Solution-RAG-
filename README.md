@@ -18,6 +18,6 @@ The system is designed with a robust architecture involving several components:
 - **Inference and Deployment**: Setup for model deployment and response handling to ensure high availability and scalability.
 - <p align="center">
 <!-- Resized image with width attribute -->
-<img src="Architecture Diagram.png" alt="Enrollment Process" width="1000" />
+<img src="Architecture.png" alt="Enrollment Process" width="1000" />
 <!-- Add more resized screenshots with descriptions as needed -->
 </p>
