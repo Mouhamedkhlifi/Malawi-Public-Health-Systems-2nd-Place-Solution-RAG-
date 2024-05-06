@@ -16,7 +16,6 @@ The system is designed with a robust architecture involving several components:
 - **Data Loading**: Efficient data storage and retrieval systems for fast access and query processing.
 - **Model Training**: Utilization of advanced NLP techniques and transformer models for generating relevant responses.
 - **Inference and Deployment**: Setup for model deployment and response handling to ensure high availability and scalability.
-
 - <p align="center">
 <!-- Resized image with width attribute -->
 <img src="Architecture Diagram.png" alt="Enrollment Process" width="1000" />
