@@ -19,6 +19,6 @@ The system is designed with a robust architecture involving several components:
 
 - <p align="center">
 <!-- Resized image with width attribute -->
-<img src="Architecture Diagram.png" alt="Enrollment Process" width="400" />
+<img src="Architecture Diagram.png" alt="Enrollment Process" width="800" />
 <!-- Add more resized screenshots with descriptions as needed -->
 </p>
